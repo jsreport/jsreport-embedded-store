@@ -4,16 +4,21 @@
   "description": "deprecated template store for jsreport",
   "main": "index.js",
   "scripts": {},
+  "homepage": "https://github.com/jsreport/jsreport-embedded-store",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/jsreport-embedded-store.git"
+  },
   "keywords": [
     "jsreport",
     "store"
   ],
   "dependencies": {
-    "fs-extra": "^0.26.2",
-    "listener-collection": "^0.1.0",
-    "nedb": "^1.4.0",
-    "q": "^1.4.1",
-    "underscore": "^1.8.3"
+    "fs-extra": "0.26.2",
+    "listener-collection": "0.1.0",
+    "nedb": "1.4.0",
+    "q": "1.4.1",
+    "underscore": "1.8.3"
   },
   "author": "Jan Blaha",
   "devDependencies": {}
