@@ -1,6 +1,6 @@
 {
   "name": "jsreport-embedded-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "deprecated template store for jsreport",
   "main": "index.js",
   "scripts": {},
