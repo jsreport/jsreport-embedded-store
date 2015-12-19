@@ -14,8 +14,10 @@
     "store"
   ],
   "dependencies": {
+    "async": "1.5.0",
     "fs-extra": "0.26.2",
     "listener-collection": "0.1.0",
+    "mkdirp": "0.5.1",
     "nedb": "1.4.0",
     "q": "1.4.1",
     "underscore": "1.8.3"
